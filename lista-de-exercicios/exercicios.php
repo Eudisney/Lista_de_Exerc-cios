@@ -54,7 +54,7 @@
 
     Informe o mês de Nascimento: <input type="text" name="mes"> <br><br>
 
-    Informe o ano de Nascimento: <input type="text" name="ano"> <br><br>
+    Informe sua idade: <input type="text" name="ano"> <br><br>
 
     <h3>8. Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.</h3>
 
