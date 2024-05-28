@@ -1,5 +1,3 @@
-Atualizações nos atalhos do teclado … Em quinta-feira, 1 de agosto de 2024, os atalhos de teclado do Drive serão atualizados para oferecer a navegação por letras iniciais.Saiba mais
-exercicios.php
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
