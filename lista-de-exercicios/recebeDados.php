@@ -76,13 +76,8 @@ $dia = $_GET["dia"];
 $mes = $_GET["mes"];
 $ano = $_GET["ano"];
 
-$somadia = $dia + 0;
-$somames = $mes * 30;
-$somaano = $ano * 365;
 
-$totalDias = $somaano + $somames - $somadia;
-
-echo "<br><br> Questão 07 <br> A idade expressa em dias é ".$totalDias;
+echo "<br><br> Questão 07 <br> A idade expressa em dias é ".$dias;
 
 #Exercício 08
 $salario = $_GET["salario"];
