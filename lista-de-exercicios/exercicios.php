@@ -1,3 +1,5 @@
+Atualizações nos atalhos do teclado … Em quinta-feira, 1 de agosto de 2024, os atalhos de teclado do Drive serão atualizados para oferecer a navegação por letras iniciais.Saiba mais
+exercicios.php
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -54,7 +56,7 @@
 
     Informe o mês de Nascimento: <input type="text" name="mes"> <br><br>
 
-    Informe sua idade: <input type="text" name="ano"> <br><br>
+    Informe o ano de Nascimento: <input type="text" name="ano"> <br><br>
 
     <h3>8. Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.</h3>
 
